@@ -1,0 +1,71 @@
+{
+  "product": {
+    "name": "Liver Wellness",
+    "tagline": "Advanced Liver Support",
+    "type": "Pure Herbal Product",
+    "form": "Veg Tablets",
+    "quantity": 60
+  },
+  "images": {
+    "product_image": "https://res.cloudinary.com/dqxrvtyii/image/upload/v1776332652/IMG-20260409-WA0038.jpg_xvxm8m.jpg",
+    "product_benefits": "https://res.cloudinary.com/dqxrvtyii/image/upload/v1776332651/IMG-20260410-WA0005.jpg_p4s6zr.jpg",
+    "product_ingredient": "https://res.cloudinary.com/dqxrvtyii/image/upload/v1776332651/IMG-20260409-WA0026.jpg_fmoz6q.jpg",
+    "why_choose_our_product": "https://res.cloudinary.com/dqxrvtyii/image/upload/v1776332652/IMG-20260410-WA0014.jpg_lw6gqd.jpg"
+  },
+  "active_ingredients": [
+    "Kutki Extract",
+    "Dandelion Extract",
+    "Kalmegh Extract",
+    "Bhui Amla Extract",
+    "Punamava Extract",
+    "Curcumin",
+    "Piperine"
+  ],
+  "indications": [
+    "Helps flush out toxins",
+    "Supports liver cell repair",
+    "Shields the liver from damage (caused by alcohol, pollutants, & free radicals)",
+    "Improves Digestion & Metabolism",
+    "Enhances bile production",
+    "Aids fat metabolism, and supports smoother digestion",
+    "Promotes healthy fluid balance and removes waste",
+    "Reducing bloating and water retention"
+  ],
+  "dosage": "1 Tablet twice a day before 30 minutes of taking meal with normal water, or as directed by Advisor / Dietician / Physician",
+  "warnings": [
+    "Take good nutrition properly",
+    "Keep it cool & dry place",
+    "Capsule shell color may be changed as per the availability",
+    "Keep away from children",
+    "Don't take over dosage without consulting with Advisor / Dietician / Physician"
+  ],
+  "manufacturing": {
+    "manufactured_by": "BIOJI",
+    "address": "North 24 Parganas, West Bengal - 743126",
+    "manufacturing_license": "Ayur 543-Kr",
+    "batch_number": "B/SEGM/LIV-01",
+    "manufacturing_date": "March 2025",
+    "expiry_date": "February 2027"
+  },
+  "marketing": {
+    "marketed_by": "SUCCESS EAGLE GLOBAL MARKETING PVT. LTD.",
+    "address": "Ranaghat, West Bengal - 741201",
+    "license_number": "22826128000019"
+  },
+  "pricing": {
+    "mrp_inr": 1199,
+    "rate_inr": 900
+  },
+  "contact": {
+    "website": "ayurnnath.com",
+    "email": "ayurnnath.23@gmail.com",
+    "phone": "7547996250"
+  },
+  "certifications": [
+    "ISO 9001:2015",
+    "GMP Quality",
+    "3rd Party Lab Tested",
+    "100% Natural",
+    "FSSAI Licensed"
+  ]
+}
