@@ -5,8 +5,8 @@ export default function Footer({ product }: { product: Product }) {
   return (
     <footer className="bg-primary text-primary-foreground pt-16 pb-28 md:pb-10">
       <div className="max-w-6xl mx-auto px-4">
-        <div className="grid md:grid-cols-3 gap-10">
-          <div>
+        <div className="grid md:grid-cols-2 gap-10">
+          {/* <div>
             <h3 className="font-display text-2xl font-bold">Manufactured By</h3>
             <p className="mt-3 font-semibold">{product.manufacturing.manufactured_by}</p>
             <p className="text-sm opacity-90 flex items-start gap-2 mt-1">
@@ -19,9 +19,9 @@ export default function Footer({ product }: { product: Product }) {
               <p>Mfg: {product.manufacturing.manufacturing_date}</p>
               <p>Exp: {product.manufacturing.expiry_date}</p>
             </div>
-          </div>
+          </div> */}
           <div>
-            <h3 className="font-display text-2xl font-bold">Marketed By</h3>
+            <h3 className="font-display text-2xl font-bold">Manufactured in & Marketed By</h3>
             <p className="mt-3 font-semibold">{product.marketing.marketed_by}</p>
             <p className="text-sm opacity-90 flex items-start gap-2 mt-1">
               <MapPin className="w-4 h-4 mt-0.5 shrink-0" />
